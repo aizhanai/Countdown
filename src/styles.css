@@ -1,0 +1,13 @@
+* {
+  background-color: aqua;
+}
+.main-section {
+  border: solid 3px gray;
+  width: 200px;
+  height: 100px;
+  text-align: center;
+}
+button {
+  padding: 10px;
+  background-color: red;
+}
